@@ -6,9 +6,9 @@ const App = () => {
   return (
     <Router>
       <Routes>
-        <Route path="/registro" element={<TelaRegistro />} />
-        <Route path="/login" element={<TelaLogin />} />
-        <Route path="/" element={<TelaLogin />} /> {/* Página inicial */}
+        <Route path="/projeto/registro" element={<TelaRegistro />} />
+        <Route path="/projeto/login" element={<TelaLogin />} />
+        <Route path="/projeto/" element={<TelaLogin />} /> {/* Página inicial */}
       </Routes>
     </Router>
   );
