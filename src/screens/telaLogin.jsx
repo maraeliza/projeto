@@ -49,7 +49,7 @@ const TelaLogin = () => {
           Log in
         </button>
         <p className="signup-text">
-          Não tem uma conta? <a href="/projeto/registro">Cadastre-se agora</a>
+          Não tem uma conta? <a href="#/projeto/registro">Cadastre-se agora</a>
         </p>
       </form>
     </div>
