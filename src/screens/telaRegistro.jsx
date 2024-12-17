@@ -109,7 +109,7 @@ const RegisterUser = () => {
           Cadastrar
         </button>
         <p className="signup-text">
-          Já tem uma conta? <a href="#/projeto/login">Logue agora</a>
+          Já tem uma conta? <a href="#/login">Logue agora</a>
         </p>
       </form>
     </div>
